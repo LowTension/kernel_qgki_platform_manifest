@@ -1,7 +1,7 @@
 ## How to build the kernel
 1. Intitalize your local repository using this manifest:
 ```
-repo init -u https://github.com/LowTension/kernel_qgki_platform_manifest.git -b main
+repo init -u https://github.com/LowTension/kernel_qgki_platform_manifest.git -b 5.10
 ```
 2. Then to sync up:
 ```
